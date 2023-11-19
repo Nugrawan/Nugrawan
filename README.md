@@ -1,4 +1,4 @@
-  # <summary><strong>Hi there :wave: , Welcome To My Github Profile</strong></summary>
+# <strong>Hi there :wave: , Welcome To My Github Profile</strong>
 ## I'm a Fullstack Web Learner
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
